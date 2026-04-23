@@ -15,3 +15,6 @@ When I’m not in front of a computer I enjoy photography, flying my drone, and 
 ![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=TypeScript&logoColor=white)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white)
+
+## Profile Stats
+![](https://github-readme-stats.vercel.app/api?username=joshua-hull&show_icons=true&theme=dark)
