@@ -34,6 +34,7 @@ here:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-246EB9?style=flat&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-246EB9?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-246EB9?style=flat&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-246EB9?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-246EB9?style=flat&logo=react&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-246EB9?style=flat)
 ![AWS](https://img.shields.io/badge/AWS-246EB9?style=flat)
